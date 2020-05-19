@@ -22,4 +22,4 @@ A comparison of the horsepower range for automobiles of different drive-train op
 
 As expected, the risk profile generated across all makes showed a normal distribution with a strong majority of models falling over "0" and "1" and tails extending towards the extremes. There is however a higher number od high risk options than low risk, indicating a fairly strong automobile market with a considerable demand for high risk models.
 
-A scatter plot analysis was generated comparing the vehicles consumptions performance vs. horsepower. The plots showed a strong indirect correlation between the two parameters, indicating that consumption decreases greatly with increased horsepower ourput. 
+A scatter plot analysis was generated comparing the vehicles consumptions performance vs. horsepower. The plots showed a strong indirect correlation between the two parameters, indicating that consumption decreases greatly with increased horsepower output. 
